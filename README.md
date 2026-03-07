@@ -1,6 +1,4 @@
----
-
-# 📊 Warsztaty: Wizualizacja i Analiza Danych w Pythonie
+##📊 Warsztaty: Wizualizacja i Analiza Danych w Pythonie
 
 Witaj w repozytorium poświęconym warsztatom z analizy i wizualizacji danych! Cel tego projektu jest prosty: **chcemy, abyś skupił się na wyciąganiu wniosków i tworzeniu pięknych wykresów, zamiast tracić czas na żmudne czyszczenie danych i debugowanie kodu.**
 
