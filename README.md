@@ -1,13 +1,5 @@
 ---
 
-##📊 Warsztaty: Wizualizacja i Analiza Danych w Pythonie
-
-Witaj w repozytorium poświęconym warsztatom z analizy i wizualizacji danych! Cel tego projektu jest prosty: **chcemy, abyś skupił się na wyciąganiu wniosków i tworzeniu pięknych wykresów, zamiast tracić czas na żmudne czyszczenie danych i debugowanie kodu.**
-
-Aby to umożliwić, przygotowaliśmy dedykowany zestaw narzędziowy (pipeline), który automatyzuje powtarzalne czynności analityczne.
-
----
-
 ## 🚀 Cel Projektu
 Głównym celem warsztatów jest przeprowadzenie kompleksowej analizy korelacji między wskaźnikami ekonomicznymi, społecznymi a subiektywnym poczuciem szczęścia mieszkańców różnych krajów. Odpowiadamy na pytania takie jak:
 * Czy PKB jest jedynym wyznacznikiem szczęścia?
