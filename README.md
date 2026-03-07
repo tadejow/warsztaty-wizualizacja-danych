@@ -1,5 +1,3 @@
-Oto propozycja profesjonalnego i przejrzystego pliku `README.md` dla Twojego repozytorium. Jest on napisany w sposób zachęcający dla uczestników, z wyraźnym podziałem na sekcje techniczne i merytoryczne.
-
 ---
 
 # 📊 Warsztaty: Wizualizacja i Analiza Danych w Pythonie
