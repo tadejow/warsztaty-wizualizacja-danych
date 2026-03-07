@@ -1,0 +1,15 @@
+# Środowiska wirtualne i zmienne środowiskowe
+venv/
+env/
+.env
+
+# Pliki tymczasowe i cache Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Środowisko programistyczne (PyCharm / WebStorm / IntelliJ itp.)
+.idea/
